@@ -1,0 +1,1 @@
+W informatyce fork (z ang. „rozwidlenie”) oznacza stworzenie niezależnej kopii istniejącego projektu lub repozytorium kodu źródłowego. 
